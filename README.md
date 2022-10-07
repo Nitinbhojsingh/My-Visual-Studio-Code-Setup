@@ -3,7 +3,9 @@
 
 ### Theme
 
-I use the `Dracula At Night` in all the course videos. This is a free theme, similar to my personal favourite Monokai Pro. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=bceskavich.theme-dracula-at-night)
+`Ayu theme` A simple VS Code theme with bright colors [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
+
+`Material Icon Theme` Material Design Icons for Visual Studio Code [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 ### Extensions
 
