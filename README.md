@@ -19,6 +19,10 @@ I use the `Dracula At Night` in all the course videos. This is a free theme, sim
 
 `Prettier` to automatically format code. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
+`Ayu theme` A simple VS Code theme with bright colors [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
+
+`Material Icon Theme` Material Design Icons for Visual Studio Code [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
 `Live Server` to create a live preview for the current project. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 ### Settings
