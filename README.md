@@ -5,7 +5,11 @@
 
 `Ayu theme` A simple VS Code theme with bright colors [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
 
+`SynthWave '84` A simple VS Code theme with bright colors [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
+
 `Material Icon Theme` Material Design Icons for Visual Studio Code [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
+`Minimalist Product Icon Theme` Material Design Icons for Visual Studio Code [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=ElAnandKumar.el-vsc-product-icon-theme)
 
 ### Extensions
 
@@ -22,6 +26,9 @@
 `Prettier` to automatically format code. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 `Live Server` to create a live preview for the current project. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+`CodeSnap` to create a live preview for the current project. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
+
 
 ### Settings
 
